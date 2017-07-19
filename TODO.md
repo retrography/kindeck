@@ -4,3 +4,4 @@
 - [ ] Add icon
 - [ ] Check directories before copying
 - [ ] Install the template in Office 2011 template directory as well (~/Library/Application Support/Microsoft/Office/User Templates/My Templates)
+- [ ] Move to Platypus and shells script
