@@ -1,7 +1,8 @@
-- [ ] Fix pages with German default spell check 
+- [ ] Fix pages with German default spell check or names
+- [ ] Edit the actual masters
 - [ ] Add licensing information (for the font and the rest)
-- [ ] Add keynote template (~/Library/Containers/com.apple.iWork.Keynote/Data/Library/Application\ Support/User\ Templates)
-- [ ] Add icon
-- [ ] Check directories before copying
-- [ ] Install the template in Office 2011 template directory as well (~/Library/Application Support/Microsoft/Office/User Templates/My Templates)
-- [ ] Move to Platypus and shells script
+- [X] Add keynote template (~/Library/Containers/com.apple.iWork.Keynote/Data/Library/Application\ Support/User\ Templates)
+- [X] Add icon
+- [X] Check directories before copying
+- [X] Install the template in Office 2011 template directory as well (~/Library/Application Support/Microsoft/Office/User Templates/My Templates)
+- [X] Move to Platypus and shells script
