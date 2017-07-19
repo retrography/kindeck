@@ -30,7 +30,7 @@
 	<key>ExecutablePath</key>
 	<string>/usr/local/share/platypus/ScriptExec</string>
 	<key>IconPath</key>
-	<string>/Applications/Platypus.app/Contents/Resources/PlatypusDefault.icns</string>
+	<string>/Users/mah/Code/kindeck/griffin.icns</string>
 	<key>Identifier</key>
 	<string>org.mah.KinDeck</string>
 	<key>InterfaceType</key>
