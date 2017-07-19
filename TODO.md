@@ -1,0 +1,3 @@
+- [ ] Fix pages with German default spell check 
+- [ ] Add licensing information (for the font and the rest)
+- [ ] Add keynote template (~/Library/Containers/com.apple.iWork.Keynote/Data/Library/Application\ Support/User\ Templates)
