@@ -2,4 +2,5 @@
 - [ ] Add licensing information (for the font and the rest)
 - [ ] Add keynote template (~/Library/Containers/com.apple.iWork.Keynote/Data/Library/Application\ Support/User\ Templates)
 - [ ] Add icon
-- [ ] Move to Platypus
+- [ ] Check directories before copying
+- [ ] Install the template in Office 2011 template directory as well (~/Library/Application Support/Microsoft/Office/User Templates/My Templates)
